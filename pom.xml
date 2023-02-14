@@ -6,16 +6,4 @@
     <groupId>com.github.som1361</groupId>
     <artifactId>epassport-reader</artifactId>
     <version>0.0.5</version>
-    <dependencies>
-        <dependency>
-            <groupId>androidx.appcompat</groupId>
-            <artifactId>appcompat</artifactId>
-            <version>1.6.0</version>
-        </dependency>
-        <dependency>
-            <groupId>com.google.android.material</groupId>
-            <artifactId>material</artifactId>
-            <version>1.8.1</version>
-        </dependency>
-    </dependencies>
 </project>
