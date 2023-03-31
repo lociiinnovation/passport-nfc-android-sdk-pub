@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.som1361</groupId>
     <artifactId>epassport-reader</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.4</version>
     <dependencies>
         <dependency>
             <groupId>androidx.appcompat</groupId>
@@ -16,6 +16,29 @@
             <groupId>com.google.android.material</groupId>
             <artifactId>material</artifactId>
             <version>1.8.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jetbrains.kotlinx</groupId>
+            <artifactId>kotlinx-coroutines-jdk8</artifactId>
+            <version>1.6.4</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.jetbrains.kotlinx</groupId>
+            <artifactId>kotlinx-coroutines-android</artifactId>
+            <version>1.6.4</version>
+        </dependency>
+
+        <dependency>
+            <groupId>net.sf.scuba</groupId>
+            <artifactId>scuba-sc-android</artifactId>
+            <version>0.0.20</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.jmrtd</groupId>
+            <artifactId>jmrtd</artifactId>
+            <version>0.7.32</version>
         </dependency>
     </dependencies>
 </project>
